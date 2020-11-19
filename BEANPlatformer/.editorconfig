@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
+
+# CS8321: Local function is declared but never used
+dotnet_diagnostic.CS8321.severity = none
